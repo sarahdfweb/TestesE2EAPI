@@ -1,6 +1,7 @@
 # Protocolos de API 🚧 Em construção ....
-> REST 
-Representational State Transfere é uma API de serviços da web; A arquitetura REST é simples e fornece acesso aos recursos para que o cliente REST acesse e reenderizeos recursos no lado do cliente. No estilo REST, URI ou IDsglobais ajudam a identificar cada recurso; Está arquitetura usa várias representações de recursos para representar seu tipo, como XML, JSON, Texto, Imagens e assim por diante.
+> REST (Representational State Transfere)
+
+ É uma API de serviços da web; A arquitetura REST é simples e fornece acesso aos recursos para que o cliente REST acesse e reenderizeos recursos no lado do cliente. No estilo REST, URI ou IDsglobais ajudam a identificar cada recurso; Está arquitetura usa várias representações de recursos para representar seu tipo, como XML, JSON, Texto, Imagens e assim por diante.
  
 > Restfull
 

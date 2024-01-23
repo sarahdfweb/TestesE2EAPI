@@ -77,6 +77,9 @@ Ele é uma maneira de enviar dados para o servidor para que ele possa processar 
  
 ![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/56a4ab8e-caa5-4516-870c-72680471815e)
 
+![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/c5727632-b36c-4dcb-84ad-011ab40bdc17)
+
+
   
 </details>
 

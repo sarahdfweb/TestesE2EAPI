@@ -58,7 +58,22 @@ Cada resposta que a aplicação REST retorna, é enviado um código definindo o 
 
 <details>
    <summary><b> Método GET </b></summary> 
- Esse método não envia dados, ele obtém informações de um servidor e inclui parâmetros de URL.
+Enviada pelo cliente para solicitar dados de um recurso no servidor.🚧...
+ 
+Ao fazer uma requisição GET, você está solicitando informações do servidor e esperando que ele retorne os dados correspondentes.
+Por exemplo.: Se você acessar a página de tênis e selecionar as opções de tamanho e cor, o site faz automaticamente uma requisição GET para a API para obter aquela opção de tênis.
+ 
+ ![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/8e6fbc76-404c-44b0-81d1-3321f845d27b)
+ ## Exemplo no postman 
+ ![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/9b581c58-28ef-4fb4-b98f-7caad987f3a4)
+
+
+
+
+
+
+
+
   
 </details>
 

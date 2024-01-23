@@ -1,18 +1,26 @@
 # Protocolos de API 🚧 Em construção ....
 > REST (Representational State Transfere)
 
- É uma API de serviços da web; A arquitetura REST é simples e fornece acesso aos recursos para que o cliente REST acesse e reenderizeos recursos no lado do cliente. No estilo REST, URI ou IDsglobais ajudam a identificar cada recurso; Está arquitetura usa várias representações de recursos para representar seu tipo, como XML, JSON, Texto, Imagens e assim por diante.
+> É uma API de serviços da web; A arquitetura REST é simples e fornece acesso aos recursos para que o cliente REST acesse e reenderizeos recursos no lado do cliente. No estilo REST, URI ou IDsglobais ajudam a identificar cada recurso; Está > > > arquitetura usa várias representações de recursos para representar seu tipo, como XML, JSON, Texto, Imagens e assim por diante.
  
-> Restfull
+## Restfull
 
-Uma API que segue todos os princípios de arquitetura é chamada de RESTful. 
-Stateless - A API REST é statelesspor natureza, onde o servidor não precisa saber em qual estado o cliente está e vice-versa 
-Interface uniforme - um cliente e um servidor devem se comunicar um com o outro via HTTP (protocolo de transferência de hipertexto) usando URIs(identificadores de recursos exclusivos), CRUD (criar, ler, atualizar, excluir) e convenções JSON (JavaScriptObjectNotation). 
-> Cliente-servidor - o cliente e o servidor devem ser independentes um do outro. As alterações feitas no servidor não devem afetar o cliente e vice-versa. 
-> Cache - o cliente deve armazenar em cache as respostas, pois isso melhora a experiência do usuário, tornando-as mais rápidas e eficientes. 
-Em camadas - a API deve oferecer suporte a uma arquitetura em camadas.
-HTTP Status Code
-Cada resposta que a aplicação REST retorna, é enviado um código definindo o status da requisição:
+> Uma API que segue todos os princípios de arquitetura é chamada de RESTful.
+
+> Stateless - A API REST é statelesspor natureza, onde o servidor não precisa saber em qual estado o cliente está e vice-versa
+
+> Interface uniforme - um cliente e um servidor devem se comunicar um com o outro via HTTP (protocolo de transferência de hipertexto) usando URIs(identificadores de recursos exclusivos), CRUD (criar, ler, atualizar, excluir) e convenções JSON
+(JavaScriptObjectNotation).
+
+> Cliente-servidor - o cliente e o servidor devem ser independentes um do outro. As alterações feitas no servidor não devem afetar o cliente e vice-versa.
+ 
+> Cache - o cliente deve armazenar em cache as respostas, pois isso melhora a experiência do usuário, tornando-as mais rápidas e eficientes.
+ 
+> Em camadas - a API deve oferecer suporte a uma arquitetura em camadas.
+
+# HTTP Status Code
+
+> Cada resposta que a aplicação REST retorna, é enviado um código definindo o status da requisição:
 
 
 # HTTP Status Code

@@ -66,22 +66,17 @@ Por exemplo.: Se você acessar a página de tênis e selecionar as opções de t
  ![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/8e6fbc76-404c-44b0-81d1-3321f845d27b)
  ## Exemplo no postman 
  ![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/9b581c58-28ef-4fb4-b98f-7caad987f3a4)
-
-
-
-
-
-
-
-
   
 </details>
 
 
 <details>
    <summary><b> Método POST </b></summary> 
-Quando enviamos esse método geralmente estamos criando ou adicionando algo no servidor, como criar um registro no banco de dados. É comumente utilizado para enviar dados de formulário para serem processados no servidor, como ao enviar um formulário HTML.
-Cadastro de usuário
+O método POST é frequentemente utilizado para criar novos recursos no servidor, criar usuários, enviar dados de formulários da web, criar postagens em redes sociais, adicionar itens ao carrinho de compras, entre outros.
+Ele é uma maneira de enviar dados para o servidor para que ele possa processar e armazenar essas informações.
+ 
+![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/56a4ab8e-caa5-4516-870c-72680471815e)
+
   
 </details>
 

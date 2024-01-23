@@ -70,7 +70,6 @@ Por exemplo.: Se você acessar a página de tênis e selecionar as opções de t
   
 </details>
 
-
 <details>
    <summary><b> Método POST </b></summary> 
 O método POST é frequentemente utilizado para criar novos recursos no servidor, criar usuários, enviar dados de formulários da web, criar postagens em redes sociais, adicionar itens ao carrinho de compras, entre outros.
@@ -148,8 +147,6 @@ cadeia de caracteres (string) um número true ou false null objeto array
 
 ![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/1d1535bf-5b83-49a9-aef9-b90f1dc96ffa)
 
-
- 
 ## Postman
 O Postman é uma ferramenta que proporciona criar, compartilhar, testar e documentar APIs. Permite aos usuários criarem e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas. https://www.postman.com/downloads/
  
@@ -159,9 +156,9 @@ Inserir o seguinte comando no console: npx serverest
 Para acessar basta abrir seu navegador com a seguinte url: http://localhost:3000/ ou http://127.0.0.1:3000/ Obs.: Enquanto estiver usando, deixe o console aberto. Caso tenha problema com a instalação, use o endereço de produção: https://serverest.dev/ , mas corre o risco de alguém mexer nos seus dados, pois é um ambiente compartilhado.
 </details>
 
-# Realizando testes de API no postman de e2e (Ponta a ponta)	
-## Etapas para o Teste
-Funcionalidade: Usuários
+# Realizando testes de API no postman de E2E (Ponta a ponta)	
+
+## Funcionalidade: Usuários
 * Cadastrar usuários (Método POST)
 * Listar usuários cadastrados (GET)
 * Buscar usuário pelo ID (GET)

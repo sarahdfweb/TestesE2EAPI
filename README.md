@@ -172,6 +172,9 @@ Para acessar basta abrir seu navegador com a seguinte url: http://localhost:3000
 * Buscar usuário pelo ID (GET)
 * Excluir usuário (PUT)
   
+# Relatório dos testes com Newman
+  
+![image](https://github.com/sarahdfweb/TestesE2EAPI/assets/87348787/6e636d3f-05da-4344-bd10-77f0b7fc9508)
 
 
 

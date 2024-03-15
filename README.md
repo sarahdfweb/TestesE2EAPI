@@ -164,7 +164,7 @@ Inserir o seguinte comando no console: npx serverest
 Para acessar basta abrir seu navegador com a seguinte url: http://localhost:3000/ ou http://127.0.0.1:3000/ Obs.: Enquanto estiver usando, deixe o console aberto. Caso tenha problema com a instalação, use o endereço de produção: https://serverest.dev/ , mas corre o risco de alguém mexer nos seus dados, pois é um ambiente compartilhado.
 </details>
 
-# Realizando testes de API no postman de E2E (Ponta a ponta)	
+# Realizando testes de API no postman
 
 ## Funcionalidade: Usuários
 * Cadastrar usuários (Método POST)
